@@ -1,6 +1,6 @@
-<h4 align="center">
+<h2>
   BeeStart
-</h4>
+</h2>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/silvaAlex/desafioBeestart">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/silvaAlex/desafioBeestart">
@@ -14,5 +14,3 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
-
-<h6>projeto desenvolvido usando react-native para um processo seletivo</h6>
